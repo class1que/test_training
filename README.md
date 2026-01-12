@@ -1,2 +1,2 @@
-# test_training
-test_repo_for_training
+                               # test_training
+test_repo                                                                   
