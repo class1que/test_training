@@ -1,3 +1,2 @@
-                               # test_training
-test_repo                                                                   
+                               # test_training                                                                  
 Скрипт автоматического исправления работы интернет после использования VPN(Proxy)
